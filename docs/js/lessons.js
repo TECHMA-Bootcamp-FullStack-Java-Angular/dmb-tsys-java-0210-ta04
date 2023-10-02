@@ -3,8 +3,8 @@ export const lessons = [
     numLessons: 2,
     issue: 'Java SE',
     day: 5,
-    msg: '<i> Completamente entusiamado </i> 🤩',
-    myProgress: '🥚',
+    msg: '<i> Paso a paso </i> 🌱',
+    myProgress: '🥚 > 🐣',
 
     exercise: [
       {
@@ -21,7 +21,7 @@ export const lessons = [
         <li> La diferencia de A y N;
         <li> El valor numérico al carácter correspondiente que contiene la variable C.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_01/Main_EJ01.java',
-        urlPG: 'https://www.jdoodle.com/iembed/v0/NhU'
+        urlPG: 'https://www.jdoodle.com/embed/v0/6EzG'
         
       },
       {
@@ -30,7 +30,7 @@ export const lessons = [
         description: `
         <p> Declara dos variables numéricas (con el valor que desea), muestra por consola la suma, resto, multiplicación, división y módulo (resto de la división).<p/>`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_02/Main_EJ02.java',
-        urlPG: 'https://www.jdoodle.com/iembed/v0/Njb'
+        urlPG: 'https://www.jdoodle.com/embed/v0/6EzK'
       },
       {
         numExercise: 3,
@@ -40,7 +40,7 @@ export const lessons = [
         A, muestra a continuacion por pantalla:
         <li>El valor de cada variable. La suma X+Y. La diferencia XY. El producto X*Y. El cociente X/Y. El resto X%Y. La suma N+M. La diferencia NM. El producto N*M. El cociente N/M. El resto N%M. La suma X*N. El cociente Y/M. El resto Y%M. El doble de cada variable. La suma de cada variable. El producto de todas las variables;`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_03/Main_EJ03.java',
-        urlPG: 'https://www.jdoodle.com/iembed/v0/Njc'
+        urlPG: 'https://www.jdoodle.com/embed/v0/6EzN'
       },
       {
         numExercise: 4,
@@ -51,7 +51,7 @@ export const lessons = [
         <li>Decrementarla en 3;
         <li>Duplicar su valor.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_04/Main_EJ04.java',
-        urlPG: 'https://www.jdoodle.com/iembed/v0/Njd'
+        urlPG: 'https://www.jdoodle.com/embed/v0/6EAD'
       },
       {
         numExercise: 5,
@@ -63,7 +63,7 @@ export const lessons = [
           <li> A tome el valor de D;
           <li> D tome el valor de B.`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_05/Main_EJ05.java',
-        urlPG: 'https://www.jdoodle.com/iembed/v0/Njd'
+        urlPG: 'https://www.jdoodle.com/embed/v0/6EAG'
       },
     ]
   },
