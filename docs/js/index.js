@@ -18,7 +18,7 @@ function assignExerciseValues(exerciseIndex) {
   urlCode.href = exercise.urlCode;
   lessonsUnit.textContent = `Ejercicio nº ${exercise.numExercise}`;
   description.innerHTML = exercise.description;
-  day.textContent = `Dia ${getLessons(0).day} de 99`;
+  day.textContent = `My Progress: Dia ${getLessons(0).day} de 85`;
   issue.textContent = getLessons(0).issue;
   msg.innerHTML = getLessons(0).msg;
   myProgress.innerHTML = getLessons(0).myProgress;
