@@ -11,11 +11,9 @@ export const lessons = [
         numExercise: 1,
         title: '',
         description:`
-        <p>Escribe un programa Java que realice lo siguiente:
-        <li> declarar una variable N de tipo int; 
-        <li> declarar una variable A de tipo double;
-        <li> declarar una variable C de tipo char;
-        <li> asignar valor a cada una de ellas y continuación, muetra por pantalla:
+        <p class="m-0">Escribe un programa Java que realice lo siguiente:
+        <p class="m-0"> Declarar una variable N de tipo int, una variable A de tipo double y una variable C de tipo char;
+        <p> Asignar valor a cada una de ellas y continuación, muetra por pantalla:
         <li> El valor de cada variable;
         <li> La suma de N + A;
         <li> La diferencia de A y N;
@@ -35,17 +33,19 @@ export const lessons = [
       {
         numExercise: 3,
         title: '',
-        description: `<p>Escribe un programa Java que realice lo siguiente: <li>
-        Declarar dos variables X e Y de tipo int, dos variables N y M de tipo double y asigna a cada una un valor. 
-        A, muestra a continuacion por pantalla:
-        <li>El valor de cada variable. La suma X+Y. La diferencia XY. El producto X*Y. El cociente X/Y. El resto X%Y. La suma N+M. La diferencia NM. El producto N*M. El cociente N/M. El resto N%M. La suma X*N. El cociente Y/M. El resto Y%M. El doble de cada variable. La suma de cada variable. El producto de todas las variables;`,
+        description: `<p class="m-0"> Escribe un programa Java que realice lo siguiente: <p/>
+        <ul> Declarar dos variables X e Y de tipo int, dos variables N y M de tipo double y asigna a cada una un valor. <p/>
+        A, muestra a continuacion por pantalla:<p/>
+        El valor de cada variable, la suma X+Y, la diferencia XY, el producto X*Y, el cociente X/Y y el resto X%Y.
+        <li>La suma N+M, la diferencia NM, el producto N*M, el cociente N/M, el resto N%M. La suma X*N, el cociente Y/M y resto Y%M.
+        <li>El doble de cada variable, la suma de cada variable y  yl producto de todas las variables;`,
         urlCode: 'https://github.com/TECHMA-Bootcamp-FullStack-Java-Angular/dmb-tsys-java-0210-ta04/blob/main/src/com/tmbs/ta04_03/Main_EJ03.java',
         urlPG: 'https://www.jdoodle.com/embed/v0/6EzN'
       },
       {
         numExercise: 4,
         title: '',
-        description: `Escribe un programa Java que declare una variable entera N y asígnale un valor.
+        description: `<p class="m-0">Escribe un programa Java que declare una variable entera N y asígnale un valor.
         A escribe a continuacion las instrucciones que realicen los siguientes:
         <li>Incrementar N en 77;
         <li>Decrementarla en 3;
